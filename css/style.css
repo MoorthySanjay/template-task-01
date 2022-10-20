@@ -1,0 +1,45 @@
+.bg
+		{
+		background-image: linear-gradient(#00000085,#00000085),url("../assets/hero-bg.jpg");
+		height:450px;
+		background-repeat: no-repeat;
+		background-position:top;
+		background-size: cover;
+		text-align:center;
+		 padding-top:200px;
+			padding-left:0px;
+			padding-right:0px;
+			padding-bottom:0px;
+		}
+	.bg span
+		{
+		display: inline-block;
+		border-radius: 25px;
+		padding-top: 5px;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-bottom: 5px;
+		color:white;
+	    background-color:#bba7a736;
+		
+		
+		}
+	.bg h3{
+		color:white;
+		font-weight:20;
+		}
+	.bg p
+		{
+		color:white;
+		}
+	.bg a
+		{
+		border: 2px solid white;
+	    border-radius: 25px;
+		padding-top: 5px;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-bottom: 5px;
+		color:white;
+	    text-decoration: none;
+		}
